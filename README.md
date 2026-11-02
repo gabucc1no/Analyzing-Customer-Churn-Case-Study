@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Analysis | Power BI Portfolio Project
+# 📊 Analyzing Customer Churn | DataCamp Case Study
 
 > An end-to-end business intelligence case study analyzing customer attrition patterns for **Databel**, a telecom provider. Built with Microsoft Power BI to uncover root causes of customer churn, model subscriber behavior, and deliver data-driven retention strategies to leadership.
 

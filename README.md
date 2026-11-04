@@ -109,8 +109,3 @@ DIVIDE(
     [Total Customers],
     0
 )
-```
-    SUM('Databel - Data'[Customer Service Calls]),
-    [Total Customers],
-    0
-)

@@ -94,7 +94,7 @@ CALCULATE(
     'Databel - Data'[Churn Label] = "Yes"
 )
 
-// Primary attrition KPI (safe divide prevents zero-division errors)
+// Primary attrition KPI
 Churn Rate = 
 DIVIDE(
     [Churned Customers],

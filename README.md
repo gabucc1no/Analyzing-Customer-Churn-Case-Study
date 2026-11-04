@@ -1,8 +1,5 @@
 # 📊 Analyzing Telecom Customer Churn | DataCamp Case Study
 
-[![Power BI](https://img.shields.io/badge/Power_BI-Report_&_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
-
 > An end-to-end business intelligence case study analyzing customer attrition patterns for **Databel**, a telecom provider. Built with Microsoft Power BI to uncover root causes of customer churn, model subscriber behavior, and deliver data-driven retention strategies to leadership.
 
 ---

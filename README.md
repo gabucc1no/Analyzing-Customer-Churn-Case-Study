@@ -77,6 +77,13 @@ The project followed a 5-stage analytical lifecycle:
 5. Strategic Stakeholder Recommendations
    └── Translating data patterns into actionable commercial initiatives
 
+```
+
+---
+
+## 📐 Key DAX Measures
+
+```dax
 // Total customer count (Unique IDs)
 Total Customers = DISTINCTCOUNT('Databel - Data'[Customer_id])
 
@@ -98,6 +105,11 @@ DIVIDE(
 // Support operations friction metric
 Avg Customer Service Calls = 
 DIVIDE(
+    SUM('Databel - Data'[Customer Service Calls]),
+    [Total Customers],
+    0
+)
+```
     SUM('Databel - Data'[Customer Service Calls]),
     [Total Customers],
     0

@@ -76,7 +76,7 @@ The project followed a 5-stage analytical lifecycle:
 
 5. Strategic Stakeholder Recommendations
    └── Translating data patterns into actionable commercial initiatives
-```
+
 ---
 
 // Base customer count

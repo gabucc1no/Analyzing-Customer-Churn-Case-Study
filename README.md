@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Analysis | Power BI Portfolio Project
+# 📊 Analyzing Telecom Customer Churn | DataCamp Case Study
 
 [![Power BI](https://img.shields.io/badge/Power_BI-Report_&_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)

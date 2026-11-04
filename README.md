@@ -76,3 +76,23 @@ The project followed a 5-stage analytical lifecycle:
 
 5. Strategic Stakeholder Recommendations
    └── Translating data patterns into actionable commercial initiatives
+```
+---
+
+// Base customer count
+Total Customers = COUNT('Databel - Data'[Customer_id])
+
+// Filtered churn count
+Churned Customers = 
+CALCULATE(
+    COUNT('Databel - Data'[Customer_id]),
+    'Databel - Data'[Churn Label] = "Yes"
+)
+
+// Primary KPI
+Churn Rate = 
+DIVIDE(
+    [Churned Customers],
+    [Total Customers],
+    0
+)

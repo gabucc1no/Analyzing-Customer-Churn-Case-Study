@@ -1,6 +1,21 @@
-# 📊 Analyzing Customer Churn | DataCamp Case Study
+# 📊 Telecom Customer Churn Analysis | Power BI Portfolio Project
+
+[![Power BI](https://img.shields.io/badge/Power_BI-Report_&_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](#)
 
 > An end-to-end business intelligence case study analyzing customer attrition patterns for **Databel**, a telecom provider. Built with Microsoft Power BI to uncover root causes of customer churn, model subscriber behavior, and deliver data-driven retention strategies to leadership.
+
+---
+
+## 🖼️ Dashboard Showcase
+
+| 1. Executive Summary & Churn Drivers | 2. Demographics & Customer Tenure |
+| :---: | :---: |
+| ![Executive Overview](images/1_executive_overview.jpg) | ![Demographics](images/2_demographics_tenure.jpg) |
+
+| 3. Plans, Consumption & Extra Charges | 4. Geographic Risk & Service Operations |
+| :---: | :---: |
+| ![Plans and Usage](images/3_plans_and_usage.jpg) | ![Geographic Risk](images/4_geographic_risk.jpg) |
 
 ---
 
@@ -22,22 +37,22 @@ Across a snapshot dataset of **6,687 customers**, Databel recorded an overall at
 ## 🔍 Key Business Insights
 
 ### 1. Contract Type is the Primary Churn Driver
-* **Month-to-Month contracts** experience a **46.29% churn rate**, representing over half (51%) of Databel's subscriber base.
-* In contrast, customers on **One-Year (13%)** and **Two-Year (2.78%)** contracts show significantly lower churn, highlighting contract lock-in as an effective retention lever.
+- **Month-to-Month contracts** experience a **46.29% churn rate**, representing over half (51%) of Databel's subscriber base.
+- In contrast, customers on **One-Year (13%)** and **Two-Year (2.78%)** contracts show significantly lower churn, highlighting contract lock-in as an effective retention lever.
 
 ### 2. Competitor Pressure & Pricing Disconnect
-* **44.8% of all churn** is directly attributed to **Competitors** (competitor had better devices, made better offers, or provided faster download speeds).
-* Dissatisfaction, support attitude, and pricing transparency represent secondary drivers.
+- **44.8% of all churn** is directly attributed to **Competitors** (competitor had better devices, made better offers, or provided faster download speeds).
+- Dissatisfaction, support attitude, and pricing transparency represent secondary drivers.
 
 ### 3. Senior Demographic Vulnerability
-* Senior citizens experience a **38.46% churn rate**, compared to **23.00% for under-30 subscribers** and **24.54% for non-senior adults**.
+- Senior citizens experience a **38.46% churn rate**, compared to **23.00% for under-30 subscribers** and **24.54% for non-senior adults**.
 
 ### 4. International & Unlimited Plan Inefficiencies
-* **Under-consumption in Unlimited Plans:** Customers with unlimited data plans who use **less than 5 GB** churn at **34.7%**, compared to **12.3%** for non-unlimited users in the same usage bracket—suggesting customers feel they are paying for unused allowances.
-* Customers with active international plans but low international usage exhibit disproportionately higher churn.
+- **Under-consumption in Unlimited Plans:** Customers with unlimited data plans who use **less than 5 GB** churn at **34.7%**, compared to **12.3%** for non-unlimited users in the same usage bracket—suggesting customers feel they are paying for unused allowances.
+- Customers with active international plans but low international usage exhibit disproportionately higher churn.
 
 ### 5. Service & Support Touchpoints
-* Retained customers average fewer than **0.5 support calls**, while churned customers average between **2.0 and 3.0 calls**, signaling that unresolved customer service tickets directly precede churn.
+- Retained customers average fewer than **0.5 support calls**, while churned customers average between **2.0 and 3.0 calls**, signaling that unresolved customer service tickets directly precede churn.
 
 ---
 
